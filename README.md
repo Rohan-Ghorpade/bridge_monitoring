@@ -74,6 +74,23 @@ ESP8266 hosts a local web page displaying:
 
 ## 📊 Example Dashboard Screenshot
 
-> *(Insert image using GitHub image upload or link here)*  
-```markdown
-![Bridge Monitor Dashboard](image.png)
+![Alt text](https://github.com/Rohan-Ghorpade/bridge_monitoring/blob/main/Bridge_prototype.png)
+
+
+
+![Alt text](https://github.com/Rohan-Ghorpade/bridge_monitoring/blob/67e7092df54d7fb35745e9c96c20d2fe487c38c9/web_page_interface.png)
+
+---
+
+## 📚 References
+
+- [Arduino Official Documentation](https://www.arduino.cc/reference/en/)
+- [ESP8266 NodeMCU Docs](https://randomnerdtutorials.com/esp8266-nodemcu-arduino-ide/)
+- [Adafruit MPU6050 Guide](https://learn.adafruit.com/using-mpu6050-with-arduino)
+- [DHT22 Sensor Details](https://learn.adafruit.com/dht/overview)
+- [HX711 Load Cell Amplifier](https://learn.sparkfun.com/tutorials/load-cell-amplifier-hx711-breakout-hookup-guide)
+- [IoT-Based Structural Health Monitoring — IEEE Papers](https://ieeexplore.ieee.org/)
+- CMR Institute of Technology, Department of ECE – Project Guidance
+
+---
+
